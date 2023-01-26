@@ -1,0 +1,23 @@
+button{
+    padding: 15px;
+  font-size:40px;margin: 5%;
+  font-weight: bolder; 
+  background-color:crimson ;
+  border-width: 5px;
+  border-radius: 15px;
+  color: whitesmoke;
+}
+table,th,td{
+    border: 1px solid black;
+     
+}
+th{
+    font: 2em sans-serif;
+    font-weight: bold;
+    background-color: cadetblue;
+}
+
+td{
+    font: 1em sans-serif;
+    background-color: thistle;
+}
